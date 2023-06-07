@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdrir -p  welcome/to/school
+mkdrir -p welcome/to/school
